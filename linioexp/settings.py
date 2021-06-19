@@ -134,7 +134,7 @@ LOGOUT_REDIRECT_URL = '/'
 
 # Django Storages
 DEFAULT_FILE_STORAGE = 'storages.backends.dropbox.DropBoxStorage'
-DROPBOX_OAUTH2_TOKEN = 'kpWZ4Tm4r4oAAAAAAAAAAR2W3NgG0GEcp87gSh5gk6pTAoR42xjDpkWQyxsOwJSQ'
+DROPBOX_OAUTH2_TOKEN = '5_5SMgfA4yYAAAAAAAAAAZi4i8fHsE2C8JZ5irkCdhHNJPOmBp5a0CvsMR5TeaDO'
 
 # Django Heroku
 import django_heroku
